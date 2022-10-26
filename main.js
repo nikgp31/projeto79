@@ -1,18 +1,15 @@
-menuListArray = ["Pizza Vegetariana",//adicionar mais itens
-                    ];
+menuListArray = ["Pizza Vegetariana",
+               "Pizza Vegetariana"
+               "Pizza Quatro Queijos"
+               "Pizza de Frango"
+               "Pizza Portuguêsa"
+               "Pizza de Calabresa"
+               "Pizza Extravaganza"];
 
 function getMenu(){
 var htmldata="";
 menuListArray.sort();
-["Pizza Vegetariana"
-"Pizza Quatro Queijos"
-"Pizza de Frango"
-"Pizza Portuguêsa"
-"Pizza de Calabresa"
-"Pizza Extravaganza"]
-
-
-}
+i}
 
 function addItem(){
 var htmldata;
